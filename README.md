@@ -3,8 +3,6 @@
 ### Oi! Sou Ana Carolina Simões Ramos!! 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolsimoesramos/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-)](https://api.whatsapp.com/send?phone=5511991989952&text=Oii%20!!%20Vi%20seu%20whats%20no%20seu%20github!!)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1651688385)
 
 ![Carol GitHub stats](https://github-readme-stats.vercel.app/api?username=Carolstolf&show_icons=true&theme=radical)
