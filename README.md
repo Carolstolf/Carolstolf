@@ -1,13 +1,19 @@
 
 
-### Hello!! I'm Ana Carolina Simões Ramos!! 🖐️
+<div align="center">
+   <h1>Hi there, I'm Ana Carolina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anacarolinasimoesramos/)
+<p align='center'>
+   <a href="https://www.linkedin.com/in/anacarolinasimoesramos/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="mailto:carolstolf19@gmail.com"><img height="30" src="https://cdn-icons-png.flaticon.com/512/324/324123.png?raw=true"></a>&nbsp;&nbsp;
+ </p>
+
+ <div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Ana Carolina Simões Ramos | 💻 Full Stack Developer | 🛸 São Paulo, BR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
 
 ## My Skills 🔥
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-
-
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -33,8 +39,13 @@
 <div style="display: inline_block">
     <img align="center" alt="andoid studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
     <img align="center" alt="VS code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img align="center" alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />    
+    <img align="center" alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />  
+      <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />  
 
-</div><br/>
+</div><br/><br/>
 
+<div align="center">
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Carolstolf) 
+
+</div>
