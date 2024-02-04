@@ -54,3 +54,6 @@
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Carolstolf) 
 
 </div>
+
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
