@@ -13,7 +13,12 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Ana Carolina Simões Ramos | 💻 Full Stack Developer | 🛸 São Paulo, BR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
-## My Skills 🔥
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+- 🏦 I'm Full Stack Developer working in São Paulo 
+- 💻 I use daily: **.js**, **.node.js**, **.react**, **.typescript**,  **.sql**,  **.aws**
+- 📖 I am currently learning: **.angular**, **.C#**, **.unity**
+- 🧑‍💻 Techs I've already work on :
+
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
