@@ -16,7 +16,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm Full Stack Developer graduated in Information Systems at the University of São Paulo (USP)
 - 💻 I use daily: **.js**, **.node.js**, **.react**, **.typescript**,  **.sql**,  **.aws**
-- 📖 I am currently learning: **.angular**, **.C#**, **.unity**
+- 📖 I am currently learning: **.angular**, **.C#**, **.unity**, **.next.js**
 - 🧑‍💻 Techs I've already work on :
 
 <div style="display: inline_block">
