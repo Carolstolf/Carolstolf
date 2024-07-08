@@ -10,13 +10,13 @@
  </p>
 
  <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Ana Carolina Simões Ramos | 💻 Full Stack Developer | 🛸 São Paulo, BR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3>🙎 Ana Carolina Simões Ramos | 💻 Full Stack Developer | 🛸 São Paulo, BR </h3>
 </div>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm Full Stack Developer graduated in Information Systems at the University of São Paulo (USP)
-- 💻 I use daily: **.js**, **.node.js**, **.react**, **.typescript**,  **.sql**,  **.aws**, **.next.js**, **.nest.js**
-- 📖 I am currently learning: **.angular**, **.C#**, **.unity**
+- 🏦 I'm a Full Stack Developer with a degree in Information Systems from the University of São Paulo (USP).
+- 💻 I use daily: **JavaScript**, **Node.js**, **React**, **Typescript**,  **MySQL**,  **AWS**, **Next.js**, **Nest.js**
+-  📖 I am currently learning: **Angular**, **C#**, **Unity**
 - 🧑‍💻 Techs I've already work on :
 
 <div style="display: inline_block">
