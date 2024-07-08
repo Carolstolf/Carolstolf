@@ -1,7 +1,7 @@
 
 
 <div align="center">
-   <h1>Hi there, I'm Ana Carolina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>𝖧𝗂 𝗍𝗁𝖾𝗋𝖾, 𝗂'𝗆 𝖺𝗇𝖺 𝖢𝖺𝗋𝗈𝗅𝗂𝗇𝖺 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
 <p align='center'>
@@ -10,14 +10,14 @@
  </p>
 
  <div align="center">
-<h3>🙎 Ana Carolina Simões Ramos | 💻 Full Stack Developer | 🛸 São Paulo, BR </h3>
+<h3>🙎 𝖠𝗇𝖺 𝖢𝖺𝗋𝗈𝗅𝗂𝗇𝖺 𝖲𝗂𝗆õ𝖾𝗌 𝖱𝖺𝗆𝗈𝗌 | 💻 𝖥𝗎𝗅𝗅 𝖲𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 | 🛸 São Paulo, BR </h3>
 </div>
 
-### About Me:
-- 🏦 I'm a Full Stack Developer with a degree in Information Systems from the University of São Paulo (USP).
-- 💻 I use daily: **JavaScript**, **Node.js**, **React**, **Typescript**,  **MySQL**,  **AWS**, **Next.js**, **Nest.js**
--  📖 I am currently learning: **Angular**, **C#**, **Unity**
-- 🧑‍💻 Techs I've already worked on:
+### 𝖠𝖻𝗈𝗎𝗍 𝖬𝖾:
+- 🏦 𝖨'𝗆 𝖺 𝖥𝗎𝗅𝗅 𝖲𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 𝗐𝗂𝗍𝗁 𝖺 𝖽𝖾𝗀𝗋𝖾𝖾 𝗂𝗇 𝖨𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇 𝖲𝗒𝗌𝗍𝖾𝗆𝗌 𝖿𝗋𝗈𝗆 𝗍𝗁𝖾 𝖴𝗇𝗂𝗏𝖾𝗋𝗌𝗂𝗍𝗒 𝗈𝖿 𝖲ã𝗈 𝖯𝖺𝗎𝗅𝗈 (𝖴𝖲𝖯).
+- 💻 𝖨 𝗎𝗌𝖾 𝖽𝖺𝗂𝗅𝗒: **𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍**, **𝖭𝗈𝖽𝖾.𝗃𝗌**, **𝖱𝖾𝖺𝖼𝗍**, **𝖳𝗒𝗉𝖾𝗌𝖼𝗋𝗂𝗉𝗍**,  **𝖬𝗒𝖲𝖰𝖫**,  **𝖠𝖶𝖲**, **𝖭𝖾𝗑𝗍.𝗃𝗌**, **𝖭𝖾𝗌𝗍.𝗃𝗌**
+-  📖 𝖨 𝖺𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀: **𝖠𝗇𝗀𝗎𝗅𝖺𝗋**, **𝖢#**, **𝖴𝗇𝗂𝗍𝗒**
+- 🧑‍💻 𝖳𝖾𝖼𝗁𝗌 𝖨'𝗏𝖾 𝖺𝗅𝗋𝖾𝖺𝖽𝗒 𝗐𝗈𝗋𝗄𝖾𝖽 𝗈𝗇:
 
 <div style="display: inline_block">
       <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />  
