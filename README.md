@@ -1,7 +1,7 @@
 
 
 <div align="center">
-   <h1>𝖧𝗂 𝗍𝗁𝖾𝗋𝖾, 𝗂'𝗆 𝖺𝗇𝖺 𝖢𝖺𝗋𝗈𝗅𝗂𝗇𝖺 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>𝖧𝗂 𝗍𝗁𝖾𝗋𝖾, 𝗂'𝗆 A𝗇𝖺 𝖢𝖺𝗋𝗈𝗅𝗂𝗇𝖺 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
 <p align='center'>
