@@ -32,8 +32,3 @@ Me chamo Ana Carolina, sou Desenvolvedora Full Stack Sênior, com experiência c
 [![Linkedin](https://img.shields.io/badge/Linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anacarolinasimoesramos/)
 [![E-mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carolstolf19@gmail.com)
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Carolstolf&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true" />
-  </a>
-</div>
